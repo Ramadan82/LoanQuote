@@ -1,4 +1,4 @@
-# Zopa task - Loan Quote
+# Hududullah - Loan Quote
 
 ## To run the example through Maven:
 
@@ -12,4 +12,4 @@ java -cp target/LoanQuote-1.0-SNAPSHOT.jar Main
 mvn clean test
 ```
 
-Dawand Sulaiman
+Mohammad Ramadan Isa
