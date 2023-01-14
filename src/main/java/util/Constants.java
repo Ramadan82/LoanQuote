@@ -7,5 +7,5 @@ public class Constants {
     public static final int MINIMUM_INCOME = 15_000;
     public static final int MINIMUM_AGE = 18;
     public static final int MAXIMUM_AGE = 75;
-    public static final String RESIDENCE = "UK";
+    public static final String RESIDENCE = "NIGERIA";
 }
