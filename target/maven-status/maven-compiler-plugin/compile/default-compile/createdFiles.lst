@@ -1,0 +1,8 @@
+Main.class
+model/Borrower.class
+service/LoanCalculator.class
+util/Constants.class
+service/EligibilityChecker.class
+service/MonthlyLoanCalculator.class
+model/Lender.class
+model/Loan.class
